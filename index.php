@@ -31,7 +31,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Portfolio</title>
+  <title>My Portfolio - Atul Adhikari</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; color: #333; }
     header, footer { background: #333; color: white; text-align: center; padding: 1rem; }
@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
 
 <header>
-  <h1>👨‍💻 My Portfolio</h1>
+  <h1>👨‍💻 Atul's Portfolio</h1>
   <nav>
     <a href="#about">About</a>
     <a href="#projects">Projects</a>
