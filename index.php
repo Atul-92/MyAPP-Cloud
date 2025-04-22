@@ -90,7 +90,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </section>
 
 <footer>
-  <p>&copy; <?= date("Y") ?> Your Name. All rights reserved.</p>
+  <p>&copy; <?= date("Y") ?> Atul Adhikari 2025. All rights reserved.</p>
 </footer>
 
 </body>
